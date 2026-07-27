@@ -1,0 +1,6 @@
+{
+  "name": "StudySquad",
+  "description": "Distraction-free academic accountability app featuring live friend status board, co-studying focus rooms with timer, SSC 2027 exam countdown, daily goal tracker, and real-time accountability chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
